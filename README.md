@@ -1,5 +1,3 @@
-# -----
-
 # 🚀 Exploring Meteorite Data: Insights and Visualizations 🌍
 
 ## 📌 Project Overview
